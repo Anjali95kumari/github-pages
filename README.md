@@ -1,5 +1,5 @@
 <header>
-
+The vitual Explorers
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+virtual Lab
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
