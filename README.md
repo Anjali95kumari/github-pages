@@ -1,5 +1,5 @@
 <header>
-
+communication
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+The virtual Explorers
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
@@ -18,8 +18,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
 -->
-
-## Welcome
+anjali
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
